@@ -1,12 +1,19 @@
+/* 
+*TP3, exercice 3.3
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
+// Bibliotheques
+
 # include <stdio.h>
 # include <stdlib.h>
-# include <time.h>
+# include <time.h>	// Utilisee pour la generation aleatoire de nombre
 
 int main() {
 
 	//Déclaration du tableau
 	
-	int taille = 100;   //taille de mon tableau (au début mis 10 pour que ce soit plus simple)
+	int taille = 100;   //taille de mon tableau
 	int tab[taille];
 	
 	srand(time(NULL));// permet de réinitialiser à chaque fois la séquence
