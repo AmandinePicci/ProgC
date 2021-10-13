@@ -1,6 +1,13 @@
+
+/* 
+*TP3, exercice 3.4
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
+// Bibliotheques
 # include <stdio.h>
 # include <stdlib.h>
-# include <time.h>
+# include <time.h>	// Utilisee dans la generation aleatoire de nombre
 
 int main() {
 
@@ -11,7 +18,7 @@ int main() {
 	
 	int find=0;
 	
-	srand(time(NULL));
+	srand(time(NULL)); // generation de nombre aleatoire
 	
 	//AFFICHAGE
 	for(int i=0; i<taille; i+=1){
