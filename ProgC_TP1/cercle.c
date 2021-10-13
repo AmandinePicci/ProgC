@@ -1,3 +1,8 @@
+/* 
+*TP1, exercice 1.2
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
 #include <stdio.h>
 #include <math.h>
 
