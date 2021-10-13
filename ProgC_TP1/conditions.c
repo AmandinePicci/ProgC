@@ -1,3 +1,9 @@
+/* 
+*TP1, exercice 1.7
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
+
 #include <stdio.h>
 
 /*Ecrivez un programme qui utilise les boucles (for while ou do..while) et les branchements inconditionnels (break ou continue) pour l'affichage de numéros <= 1000 qui sont divisible par :
