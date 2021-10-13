@@ -1,3 +1,9 @@
+/* 
+*TP1, exercice 1.6
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
+
 #include <stdio.h>
 
 /*Ecrivez un programme qui utilise for, # et * et qui affiche un triangle rectangle. 
