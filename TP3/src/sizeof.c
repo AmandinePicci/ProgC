@@ -1,6 +1,13 @@
+/* 
+*TP3, exercice 3.1
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
+
+// Bibliotheque
 # include <stdio.h>
 
 int main() {
+// Affichage des tailles 
 	printf("int %ld\n", sizeof(int));
 	printf("int* %ld\n", sizeof(int*));
 	printf("int** %ld\n", sizeof(int**));
