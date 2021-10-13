@@ -1,3 +1,7 @@
+/* TP1, exercice 1.4
+*Auteur : Sarah LE CORRE, Amandine PICCINALI
+*/
+
 #include <stdio.h>
 
 /*Ecrivez un programme qui affecte et affiche les valeurs des variables des différents
@@ -6,6 +10,9 @@
 * float, double, long double*/
 
 int main() {
+
+// Declaration des variables
+	
 	char a = 'a';
 						
 	signed int b = -4;					
