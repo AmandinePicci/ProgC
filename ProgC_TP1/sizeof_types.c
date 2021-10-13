@@ -1,10 +1,17 @@
-#include <stdio.h>
+/* 
+*TP1, exercice 1.3
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*/
 
 /*Ecrivez un programme qui affiche la taille des différents types de base (en octets)
 * char, int, short, long int, long long int avec signed et unsigned
 * float, double, long double*/
 
+#include <stdio.h>
+
 int main() {
+//Declaration des variables
+	
 	int a = sizeof(char);						//1
 	int b = sizeof(signed int);					//4
 	int c = sizeof(unsigned int);					//4
