@@ -1,5 +1,6 @@
 /* TP1, exercice 1.4
 *Auteur : Sarah LE CORRE, Amandine PICCINALI
+* Objectif :  afficher les valeurs des variables des différents types de base
 */
 
 #include <stdio.h>
