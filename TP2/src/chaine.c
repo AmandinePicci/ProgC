@@ -1,4 +1,4 @@
-/* TP2,
+/* TP2, Le Corre Sarah, Piccinali Amandine
 Exercice 2.4
 Calcule, copie et concatène des chaine de caractère
 */
