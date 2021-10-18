@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.3
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectif :  afficher la taille des différents types de base (en octets)
 */
 
 /*Ecrivez un programme qui affiche la taille des différents types de base (en octets)
