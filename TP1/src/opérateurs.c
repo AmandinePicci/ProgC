@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.5
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : Tester les différents opérateurs arithmétiques et logiques.
 */
 
 
