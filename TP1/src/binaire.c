@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.9
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+* Objectifs :Ecrire un programme qui affiche "bonjour le monde!" à l'écran.
 */
 
 #include <stdio.h>	// Header
