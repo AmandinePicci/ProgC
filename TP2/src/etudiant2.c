@@ -1,4 +1,4 @@
-/* TP2
+/* TP2, Le Corre Sarah, Piccinali Amandine
 Exercice 2.6
 Afficher les notes de 5 étudiants avec struct*/
 
