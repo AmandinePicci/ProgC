@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.2
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : Ecrire un programme cercle.c qui calcule l'aire et le périmètre d'un cercle
 */
 
 #include <stdio.h>
