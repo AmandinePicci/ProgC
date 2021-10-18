@@ -1,7 +1,7 @@
 /* 
 *TP1, exercice 1.9
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
-* Objectifs : 
+* Objectifs : Ecrire un programme qui utilise for pour l'affichage d'une variable int en format binaire.binaire. 
 */
 
 #include <stdio.h>	// Header
