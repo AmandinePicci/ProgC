@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.7
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : Ecrire un programme conditions.c qui utilise les boucles (for, while ou do..while) et les branchements inconditionnels (break ou continue)
 */
 
 
