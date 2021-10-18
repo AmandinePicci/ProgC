@@ -1,6 +1,7 @@
 /* 
 *TP3, exercice 3.3
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : Creer un tableau de 100 entiers, puis les trier par ordre croissant. 
 */
 
 // Bibliotheques
