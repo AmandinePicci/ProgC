@@ -1,6 +1,7 @@
 /* 
 *TP1, exercice 1.6
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs :Ecrore un programme boucles.c qui utilise for, # et * et qui affiche un triangle rectangle.
 */
 
 
