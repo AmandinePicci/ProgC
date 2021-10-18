@@ -1,4 +1,4 @@
-/* TP2
+/* TP2, Le Corre Sarah, Piccinali Amandine
 Exercice 2.3
 Afficher la suite de fibonacci*/
 
