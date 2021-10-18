@@ -1,6 +1,16 @@
 /* 
 *TP3, exercice 3.1
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+* Objectifs : Ecrire un programme sizeof.c et testez le code suivant. Quelle est la valeur renvoyée par chacune des lignes suivantes ?
+*sizeof (int)
+*sizeof (int *)
+*sizeof (int **)
+*sizeof (char *)
+*sizeof (char **)
+*sizeof (char ***)
+*sizeof (float *)
+*sizeof (float **)
+*sizeof (float ***)
 */
 
 // Bibliotheque
