@@ -1,4 +1,9 @@
 
+/* 
+*TP3, exercice 3.7
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : En réutilisant le code de couleurs.c, écrire un programme avec un tableau de 100 couleurs.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
