@@ -1,6 +1,7 @@
 /* 
 *TP3, exercice 3.2
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectifs : Codez programme qui créer un tableau de 100 entiers et calculer le numéro plus grand et le plus petit
 */
 
 // Bibliotheques
