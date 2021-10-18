@@ -1,4 +1,4 @@
-/* TP2
+/* TP2 _ Le Corre Sarah, Piccinali Amandine
 Exercice 2.5
 Gérer les notes de 5 étudiants avec des tableaux*/
 
