@@ -1,4 +1,4 @@
-/* TP 2
+/* TP 2, Le Corre Sarah, Piccinali Amandine
 Exercice 2.9
 Utiliser les pointeurs pour parcourir deux tableaux et effectuer des opérations
 */
