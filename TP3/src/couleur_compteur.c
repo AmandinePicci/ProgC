@@ -1,7 +1,4 @@
-/*Exo 3.7:
-* creer un tableau avec des couleurs (r g b a) et compter combien de fois les couleurs apparaissent
-*auteurs: Clément Leclercq et Romain Delaplaine
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
