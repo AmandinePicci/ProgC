@@ -1,5 +1,6 @@
 /* TP3, exercice 3.6
 *Auteurs : Sarah LE CORRE, Amandine Piccinali
+*Ecrire un programme en utilisant char et les opérateurs de pointeurs pour voir les octets d'une variable short, int, long int, float, double et long double.
 */
 
 
