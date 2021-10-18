@@ -2,6 +2,7 @@
 /* 
 *TP3, exercice 3.4
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Objectif Écrire un programmeben créant un tableau de 100 entiers et puis en cherchant un entier dans ce tableau. Si l'entier est présent dans le tableau, affichez le message 'entier présent'.
 */
 
 // Bibliotheques
