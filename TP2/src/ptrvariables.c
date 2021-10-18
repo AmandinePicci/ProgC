@@ -1,4 +1,4 @@
-/* TP2
+/* TP2, Le Corre Sarah, Piccinali Amandine
 Exercice 2.8
 Affichage de valeurs grâce à leurs adresses*/
 
