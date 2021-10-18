@@ -1,4 +1,4 @@
-/* TP2
+/* TP2 _ Le Corre Sara, Piccinali Amandine
 Exercice 2.2
 Comparateur des bits en 4ème et 20ème*/
 
