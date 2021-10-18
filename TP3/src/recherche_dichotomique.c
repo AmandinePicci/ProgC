@@ -1,6 +1,7 @@
 /* 
 *TP3, exercice 3.5
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
+*Ecrire un programme en créant un tableau de 100 entiers et puis en cherchant un entier dans le tableau déjà tri en ordre croissant. Si l'entier est présent dans le tableau, affichez le message 'entier présent'.
 */
 
 // Bibliotheques 
