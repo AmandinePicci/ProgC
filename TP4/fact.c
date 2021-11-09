@@ -1,3 +1,10 @@
+/* 
+*TP4, exercice 4.5
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+* Objectifs : écriture d'une fonction récursive pour calculer une factorielle
+*/
+
+
 #include <stdio.h>
 // contient les codes de la fonction factorielle
 
@@ -8,7 +15,7 @@ if (num == 0) {
 
 }
 else {
-	return (num * factorielle (num -1));
+	return (num * factorielle (num -1));	//On rappelle factorielle
 
 }
 }

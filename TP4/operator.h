@@ -1,4 +1,12 @@
-// declaration fonction, contient les entetes (signatures) des fonctions
+/* 
+*TP4, exercice 4.1
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+* Objectifs : Ecrire un programme appelant des fonctions d'operations depuis un main (calcul.c)
+*/
+
+
+
+// declaration fonctions, contient les entetes (signatures) des fonctions
 
 
  

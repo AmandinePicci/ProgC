@@ -1,11 +1,26 @@
+/* 
+*TP4, exercice 4.1
+*Auteurs : Sarah LE CORRE, Amandine PICCINALI
+* Objectifs : Ecrire un programme appelant des fonctions d'operations depuis un main (calcul.c)
+*/
+
+
+// Importation bibliothèques 
 
 #include <stdio.h>
 #include "operator.h"
+
+
+
 int main() {
-	// Initialisation des variables
-	int num1 = 50;
+
+// Initialisation des variables
+	int num1 = 11;
 	int num2 = 18;
-	char op = '~';
+	char op = '+';
+
+// Appel de la fonction d'opération selon le cas
+
 
 	switch (op) {
 
