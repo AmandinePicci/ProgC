@@ -1,0 +1,23 @@
+# Bibliothèques
+*stdio.h
+*sys/types.h
+*unistd.h
+*stdlib.h
+*dirent.h
+*string.h
+*sys/socket.h
+*sys/epoll.h
+*netinet/in.h
+
+# Références
+* Le cours ainsi que les intervenants lors des séances.
+
+# Difficulté
+*L'énoncé de l'exercice 5.3 ne fut pas compris par notre binôme.
+*L'exercice 5.6 était trop difficile pour nous, donc nous ne l'avons pas fait.
+*Naviguer dans les fichiers serveur et client fût long à prendre en main.
+
+# Commentaires
+* L'exercice 5.3 et 5.6 n'ont pas été réalisés.
+* Alice Malosse a effectué le TP en séance avec nous. Certains exercices se ressembleront donc puisque nous avons réfléchis ensemble à leur réalisations.
+
