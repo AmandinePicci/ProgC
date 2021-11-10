@@ -13,7 +13,7 @@
 
 # Difficultés
 * Compréhension de l'allocation de mémoire malloc
-* Difficultés pour rechercher une chaine de caractères dans une autre ( ex 4.6 )
+* Difficultés pour rechercher une chaine de caractères dans une autre ( ex 4.6 ). Nous avons essayé de libérer la mémoire utilisée avec les malloc mais nous n'arrivons pas à corriger l'erreur due aux "free"
 * Difficultés pour mettre en place le système de liste simplement chainée avec les pointeurs
 
 # Commentaires
