@@ -5,7 +5,14 @@
 */
 
 
+// pour éviter les erreurs de double include
+
+#ifndef FACT_H
+#define FACT_H
+
 
 // declaration de la fonction factorielle
 
 int factorielle(int num);
+
+#endif	// FACT_H
