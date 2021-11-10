@@ -1,0 +1,26 @@
+# Bibliothèques
+
+*sys/types.h
+*sys/socket.h
+*sys/epoll.h
+*netinet/in.h
+*stdio.h
+*stdlib.h
+*string.h
+*unistd.h
+*stdint.h
+*search.h
+*sys/stat.h
+*fcntl.h
+
+# Références
+*
+*
+
+# Difficulté
+* L'exercice 6.2 nous a pris les 4 heures de séance parce qu'il nous a fallu un long moment avant de pouvoir naviguer dans les fichiers déjà existants que nous devions compléter.
+
+# Commentaires
+* L'exercice 6.3 n'a pas été fait.
+* 
+
