@@ -1,3 +1,26 @@
-4.1 le main s'appelle calcul
-4.2 le main s'appelle lect_fichier
-en coopération avec Alice Malosse pendant la séance
+
+# Bibliothèques
+* <stdio.h>
+* <stdlib.h>
+* <string.h>
+* <sys/types.h>
+* <sys/stat.h>
+* <fcntl.h>
+* <unistd.h>
+
+# Références
+* Cours sur e-campus de l'enseignant ainsi que les exemples de cours sur github
+
+# Difficultés
+* Compréhension de l'allocation de mémoire malloc
+* Difficultés pour rechercher une chaine de caractères dans une autre ( ex 4.6 )
+* Difficultés pour mettre en place le système de liste simplement chainée avec les pointeurs
+
+# Commentaires
+* Afin d'éviter d'avoir plusieurs fichiers nommés "main.c" :
+* Dans l'exercice 4.1 le fichier main s'appelle calcul.c
+* Dans l'exercice 4.2 le main s'appelle lect_fichier.c
+* 
+* Le Début du TP 4 a été effectué en collaboration avec Alice Malosse durant la séance de TP
+* Le groupe de Théo Pannethier et Matthieu Tran nous a apporté son aide pour l'exercice 4.6
+
