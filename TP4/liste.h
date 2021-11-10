@@ -1,18 +1,34 @@
 /* 
 *TP4, exercice 4.7
 *Auteurs : Sarah LE CORRE, Amandine PICCINALI
-* Objectifs : 
+* Objectifs : Ajouter des couleurs dans une liste simplement chainée 
 */
 
 
-struct liste_couleurs {                
-   // Remplissez ça pour gérer une liste (simplement chainée) de couleurs.
-	char R;
-	char G;
-	char B;
+// pour éviter les erreurs de double include
 
-};        
+#ifndef LISTE_H	
+#define LISTE_H
 
-void insertion (struct couleur *, struct liste_couleurs *);                
-void parcours (struct liste_couleurs *);
+// Déclaration structures
 
+struct couleur {
+	unsigned char R;
+	unsigned char G;
+	unsigned char B;
+};
+
+struct liste_couleurs {
+	// gestion d'une liste (simplement chainée) de couleurs.
+	struct liste_couleurs *svt;
+	struct couleur sc;
+};
+
+// Déclaration fonctions
+
+void insertion (struct couleur *, struct liste_couleurs *);     // Pour insérer une couleur dans une liste
+           
+void parcours (struct liste_couleurs *);			// Pour parcourir la liste
+void free_liste_couleurs(struct liste_couleurs *);		// Libération de la mémoire 
+
+#endif	// LISTE_H
